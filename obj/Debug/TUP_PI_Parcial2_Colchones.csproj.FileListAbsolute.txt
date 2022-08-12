@@ -1,0 +1,30 @@
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.csprojAssemblyReference.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Colchones\bin\Debug\TUP_PI_Parcial2_Colchones.exe.config
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Colchones\bin\Debug\TUP_PI_Parcial2_Colchones.exe
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Colchones\bin\Debug\TUP_PI_Parcial2_Colchones.pdb
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.frmColchones.resources
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.exe
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.pdb
+C:\Users\Usuario\Desktop\TUP_PI_Parcial2_Colchones (2)\TUP_PI_Parcial2_Colchones\bin\Debug\TUP_PI_Parcial2_Colchones.exe.config
+C:\Users\Usuario\Desktop\TUP_PI_Parcial2_Colchones (2)\TUP_PI_Parcial2_Colchones\bin\Debug\TUP_PI_Parcial2_Colchones.exe
+C:\Users\Usuario\Desktop\TUP_PI_Parcial2_Colchones (2)\TUP_PI_Parcial2_Colchones\bin\Debug\TUP_PI_Parcial2_Colchones.pdb
+C:\Users\Usuario\Desktop\TUP_PI_Parcial2_Colchones (2)\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TUP_PI_Parcial2_Colchones (2)\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.frmColchones.resources
+C:\Users\Usuario\Desktop\TUP_PI_Parcial2_Colchones (2)\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TUP_PI_Parcial2_Colchones (2)\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\TUP_PI_Parcial2_Colchones (2)\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TUP_PI_Parcial2_Colchones (2)\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.exe
+C:\Users\Usuario\Desktop\TUP_PI_Parcial2_Colchones (2)\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.pdb
+C:\Users\Usuario\Desktop\MODELO\TUP_PI_Parcial2_Colchones (1)\TUP_PI_Parcial2_Colchones\bin\Debug\TUP_PI_Parcial2_Colchones.exe.config
+C:\Users\Usuario\Desktop\MODELO\TUP_PI_Parcial2_Colchones (1)\TUP_PI_Parcial2_Colchones\bin\Debug\TUP_PI_Parcial2_Colchones.exe
+C:\Users\Usuario\Desktop\MODELO\TUP_PI_Parcial2_Colchones (1)\TUP_PI_Parcial2_Colchones\bin\Debug\TUP_PI_Parcial2_Colchones.pdb
+C:\Users\Usuario\Desktop\MODELO\TUP_PI_Parcial2_Colchones (1)\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\MODELO\TUP_PI_Parcial2_Colchones (1)\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.frmColchones.resources
+C:\Users\Usuario\Desktop\MODELO\TUP_PI_Parcial2_Colchones (1)\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.Properties.Resources.resources
+C:\Users\Usuario\Desktop\MODELO\TUP_PI_Parcial2_Colchones (1)\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\MODELO\TUP_PI_Parcial2_Colchones (1)\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MODELO\TUP_PI_Parcial2_Colchones (1)\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.exe
+C:\Users\Usuario\Desktop\MODELO\TUP_PI_Parcial2_Colchones (1)\TUP_PI_Parcial2_Colchones\obj\Debug\TUP_PI_Parcial2_Colchones.pdb
